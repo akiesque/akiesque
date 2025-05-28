@@ -16,9 +16,9 @@
 <h3 align="left">Say hi in other places:</h3>
 <p align="left">
 <a href="https://twitter.com/_x019h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_x019h" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chandrelle-stephanie-fermil-19171a1a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandrelle-stephanie-fermil-19171a1a1/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/akiesque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/akiesque" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/akiesque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akiesque/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chandrelle-stephanie-fermil-19171a1a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandrelle-stephanie-fermil-19171a1a1/" height="30" width="40" /></a>
+<a href="https://www.behance.net/akiesque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/akiesque" height="30" width="40" /></a>
+<a href="https://u/akiesque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akiesque/" height="30" width="40" /></a>
 </p>
 
 
