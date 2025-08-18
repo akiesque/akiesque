@@ -1,7 +1,7 @@
 <h1 align="center">Hellooo~! I'm Stephanie Fermil!💖</h1>
 <h3 align="center">Also Mimi - an optimistic and creative data scientist!</h3>
 
-- 🤖 Currently working on a **chatbot!**
+- 🤖 Currently working on a **Shroomseek, a catagorizer for mushrooms!**
 
 - 📚 Really interested on learning ****Machine/Deep Learning**, **Frontend Development**, and **Data Analytics****
 
@@ -11,7 +11,7 @@
 
 - 🌻 My email is also open: **mimi.artbox@gmail.com**
 
-- 🌊 I code, I draw, I write, ***but ofc nothing beats sleep!***
+- 🌊 I code, I draw, I write, ***I sleep I think***
 
 <h3 align="left">Say hi in other places:</h3>
 <p align="left">
