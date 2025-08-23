@@ -1,7 +1,7 @@
 <h1 align="center">Hellooo~! I'm Stephanie Fermil!💖</h1>
 <h3 align="center">Also Mimi - an optimistic and creative data scientist!</h3>
 
-- 🤖 Currently working on a **Shroomseek, a catagorizer for mushrooms!**
+- 🤖 Currently working on break, **until the next one~**
 
 - 📚 Really interested on learning ****Machine/Deep Learning**, **Frontend Development**, and **Data Analytics****
 
