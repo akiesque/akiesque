@@ -2,6 +2,8 @@
 <h3 align="center">Also Mimi - an optimistic and creative data scientist!</h3>
 
 - 🤖 Currently working on [**cafe.ly**](https://github.com/akiesque/cafe.ly), **please check it out~**
+  
+- 🌟Visit my portfolio [**here**](https://the-stellarium.vercel.app/)!
 
 - 📚 Really interested on learning ****Machine/Deep Learning**, **Frontend Development (UI/UX)**, and **Data Analytics****
 
