@@ -1,7 +1,7 @@
 <h1 align="center">Hellooo~! I'm Stephanie Fermil!💖</h1>
 <h3 align="center">Also Mimi - an optimistic and creative data scientist!</h3>
 
-- 🤖 Currently working on [**cafe.ly**](https://github.com/akiesque/cafe.ly), **please check it out~**
+- 🤖 Currently working on [**breadoro-js**](https://github.com/akiesque/breadoro-js), **please check it out~**
   
 - 🌟Visit my portfolio [**here**](https://the-stellarium.vercel.app/)!
 
