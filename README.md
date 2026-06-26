@@ -3,7 +3,7 @@
 
 - 🤖 Currently working on [**breadoro-js**](https://github.com/akiesque/breadoro-js), **please check it out~**
   
-- 🌟Visit my portfolio [**here**](https://the-stellarium.vercel.app/)!
+- 🌟Visit my code atelier! (portfolio) [**here**](https://steph-codeatelier.me/)!
 
 - 📚 Really interested on learning ****Machine/Deep Learning**, **Frontend Development (UI/UX)**, and **Data Analytics****
 
@@ -11,7 +11,9 @@
 
 - 🍒 If you're interested in my illustrations, see [here](https://www.behance.net/akiesque)! 
 
-- 🌻 My email is also open: **mimi.artbox@gmail.com**
+- 🌻 My email is also open!
+    - for art/illustrations: **mimi.artbox@gmail.com**
+    - for business/work: **Stephanie.fermil@gmail.com**
 
 - 🌊 I code, I draw, I write, ***I sleep I think***
 
